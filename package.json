@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://WeAreNati.github.io/NATI--bridge_API_SWAP-main_try",
+  "homepage": "https://WeAreNati.github.io/NATIBridgePoxyAPI",
   "dependencies": {
     "@bitgo/utxo-lib": "git+https://github.com/VerusCoin/BitGoJS.git#utxo-lib-verus",
     "@emotion/react": "^11.7.0",
