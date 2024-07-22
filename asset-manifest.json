@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NATI--bridge_API_SWAP-main_try/static/css/main.f9d6587d.chunk.css",
+    "main.js": "/NATI--bridge_API_SWAP-main_try/static/js/main.0be3f677.chunk.js",
+    "main.js.map": "/NATI--bridge_API_SWAP-main_try/static/js/main.0be3f677.chunk.js.map",
+    "runtime-main.js": "/NATI--bridge_API_SWAP-main_try/static/js/runtime-main.d09e82ff.js",
+    "runtime-main.js.map": "/NATI--bridge_API_SWAP-main_try/static/js/runtime-main.d09e82ff.js.map",
+    "static/js/2.54e72b46.chunk.js": "/NATI--bridge_API_SWAP-main_try/static/js/2.54e72b46.chunk.js",
+    "static/js/2.54e72b46.chunk.js.map": "/NATI--bridge_API_SWAP-main_try/static/js/2.54e72b46.chunk.js.map",
+    "index.html": "/NATI--bridge_API_SWAP-main_try/index.html",
+    "static/css/main.f9d6587d.chunk.css.map": "/NATI--bridge_API_SWAP-main_try/static/css/main.f9d6587d.chunk.css.map",
+    "static/js/2.54e72b46.chunk.js.LICENSE.txt": "/NATI--bridge_API_SWAP-main_try/static/js/2.54e72b46.chunk.js.LICENSE.txt",
+    "static/js/main.0be3f677.chunk.js.LICENSE.txt": "/NATI--bridge_API_SWAP-main_try/static/js/main.0be3f677.chunk.js.LICENSE.txt",
+    "static/media/metamask-icon.5d8a9b97.svg": "/NATI--bridge_API_SWAP-main_try/static/media/metamask-icon.5d8a9b97.svg",
+    "static/media/wallet-icon.01720515.svg": "/NATI--bridge_API_SWAP-main_try/static/media/wallet-icon.01720515.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d09e82ff.js",
+    "static/js/2.54e72b46.chunk.js",
+    "static/css/main.f9d6587d.chunk.css",
+    "static/js/main.0be3f677.chunk.js"
+  ]
+}
